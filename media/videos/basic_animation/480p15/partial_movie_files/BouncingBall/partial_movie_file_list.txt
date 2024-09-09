@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Lenovo/Desktop/manim/media/videos/basic_animation/480p15/partial_movie_files/BouncingBall/1185818338_793426660_3378365999.mp4'
+file 'file:C:/Users/Lenovo/Desktop/manim/media/videos/basic_animation/480p15/partial_movie_files/BouncingBall/624642324_422291915_3378365999.mp4'
+file 'file:C:/Users/Lenovo/Desktop/manim/media/videos/basic_animation/480p15/partial_movie_files/BouncingBall/624642324_970524293_3378365999.mp4'
+file 'file:C:/Users/Lenovo/Desktop/manim/media/videos/basic_animation/480p15/partial_movie_files/BouncingBall/624642324_2402875825_3378365999.mp4'
+file 'file:C:/Users/Lenovo/Desktop/manim/media/videos/basic_animation/480p15/partial_movie_files/BouncingBall/624642324_1544620780_3378365999.mp4'
+file 'file:C:/Users/Lenovo/Desktop/manim/media/videos/basic_animation/480p15/partial_movie_files/BouncingBall/624642324_2859384557_3378365999.mp4'
+file 'file:C:/Users/Lenovo/Desktop/manim/media/videos/basic_animation/480p15/partial_movie_files/BouncingBall/624642324_1352111760_3378365999.mp4'
+file 'file:C:/Users/Lenovo/Desktop/manim/media/videos/basic_animation/480p15/partial_movie_files/BouncingBall/624642324_2860267909_3378365999.mp4'
+file 'file:C:/Users/Lenovo/Desktop/manim/media/videos/basic_animation/480p15/partial_movie_files/BouncingBall/624642324_1521584825_3378365999.mp4'
